@@ -6,7 +6,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwoals21)](https://solved.ac/whwoals21)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/epicurean21=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?epicurean21=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
