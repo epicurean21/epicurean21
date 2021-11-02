@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 2022.01 ~ LINE + [??]
+<!-- - 2022.01 ~ LINE + [??] -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=epicurean21)](https://github.com/anuraghazra/github-readme-stats)   
 
