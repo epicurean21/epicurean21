@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<!-- hits -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frocher71&count_bg=%23FA8072&title_bg=%23FFA384&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=epicurean21)](https://github.com/anuraghazra/github-readme-stats)   
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwoals21)](https://solved.ac/whwoals21)
